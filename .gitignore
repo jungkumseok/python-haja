@@ -1,0 +1,8 @@
+.DS_Store
+npm-debug.log
+*.pyc
+*~
+**/.ipynb_checkpoints
+.project
+local.sh
+start.sh
